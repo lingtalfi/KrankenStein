@@ -7,7 +7,7 @@ KrankenSteinTool::isOneShot
 
 
 
-KrankenSteinTool::isOneShot — Returns whether the given string is one shot or not.
+KrankenSteinTool::isOneShot — Returns whether the given string is [one shot](https://github.com/lingtalfi/KrankenStein/blob/master/README.md#one-shot-notation) or not.
 
 
 
@@ -21,7 +21,7 @@ public static [KrankenSteinTool::isOneShot](https://github.com/lingtalfi/Kranken
 
 
 
-Returns whether the given string is one shot or not.
+Returns whether the given string is [one shot](https://github.com/lingtalfi/KrankenStein/blob/master/README.md#one-shot-notation) or not.
 
 
 

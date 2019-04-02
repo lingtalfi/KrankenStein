@@ -7,7 +7,7 @@ KrankenSteinTool::executeOneShot
 
 
 
-KrankenSteinTool::executeOneShot — Executes the given one shot string and returns the result.
+KrankenSteinTool::executeOneShot — Executes the given [one shot](https://github.com/lingtalfi/KrankenStein/blob/master/README.md#one-shot-notation) string and returns the result.
 
 
 
@@ -21,7 +21,7 @@ public static [KrankenSteinTool::executeOneShot](https://github.com/lingtalfi/Kr
 
 
 
-Executes the given one shot string and returns the result.
+Executes the given [one shot](https://github.com/lingtalfi/KrankenStein/blob/master/README.md#one-shot-notation) string and returns the result.
 The isOneShotString flag is raised to true if the given string is a one shot string indeed.
 
 
