@@ -1,5 +1,11 @@
 1.0.0: 
-    - Ling:BabyYaml:1.7.3
+    - Ling:BabyYaml:1.7.4
 
 1.0.1: 
-    - Ling:BabyYaml:1.7.3
+    - Ling:BabyYaml:1.7.4
+
+1.0.2: 
+    - Ling:BabyYaml:1.7.4
+
+1.0.3: 
+    - Ling:BabyYaml:1.7.5
